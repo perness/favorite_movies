@@ -1,0 +1,83 @@
+MERN TUTORIAL: 
+
+- https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50,
+
+- https://appdividend.com/2017/06/28/mern-stack-tutorial/#Step_12_Register_the_routes_at_the_front_end
+
+REACT:
+
+- https://reactjs.org/docs/react-component.html#overview
+
+EXPRESS: 
+
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
+
+MONGODB:
+
+- https://www.mongodb.com/blog/post/the-modern-application-stack-part-5-using-reactjs-es6-and-jsx-to-build-a-ui-the-rise-of-mern
+
+- http://mongoosejs.com/docs/api.html#model_Model.findByIdAndUpdate
+
+API EKSEMPEL BILDE:
+
+- Læreboken
+
+JAVASCRIPT DRØFTING:
+
+- https://www.wired.com/2016/05/javascript-conquered-web-now-taking-desktop/
+- https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/
+
+JAVASCRIPT FULL STACK BILDE:
+
+ - https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-javascript-full-stack-development/
+
+WEB SOCKET METODER:
+
+- https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications
+
+API TESTING:
+
+- https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
+
+- https://www.codementor.io/olatundegaruba/integration-testing-supertest-mocha-chai-6zbh6sefz
+
+- https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+
+DOCKER OPPSETT:
+
+- https://thetechremix.com/2017/08/25/my-experience-deploying-a-node-js-docker-container-to-heroku/
+
+- https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+
+- https://www.peterbe.com/plog/how-to-create-react-app-with-docker
+
+URL STRUKTUR:
+
+- http://www.restapitutorial.com/lessons/restfulresourcenaming.html
+
+JWT DRØFTING OG BILDE: 
+
+- https://auth0.com/blog/cookies-vs-tokens-definitive-guide/
+
+REST DRØFTING BILDE:
+
+- https://stackoverflow.com/questions/19884295/soap-vs-rest-differences
+
+- https://martinfowler.com/articles/richardsonMaturityModel.html
+
+WEBSOCKET BILDE:
+
+- https://www.google.no/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiHibDZhP3XAhWHApoKHTYuC6gQjRwIBw&url=https%3A%2F%2Fdevcentral.f5.com%2Farticles%2Fload-balancing-websockets&psig=AOvVaw0HgEkddn5hSgb5ZoSHAMjt&ust=1512912569605525
+
+
+
+
+
+
+
+
+
+
+
+
+
